@@ -5,3 +5,6 @@ Using p5js, creates a interactive, randomly generated terrain using perlin noise
 - p5js
 - WEBGL
 - HTML canvases
+
+
+The 'Buttons' are currently just invisble html elements. Would like to learn ray tracing or color picking to select 3d objects in webgl.
